@@ -22,7 +22,7 @@ L'objectif de cet exercice est de vous initier à l'utilisation des outils git &
 6. Changer de branch pour la branch que vous venez de créer
 7. Remplir le document [presentation.json](/presentation.json)
 8. Faire un commit des modifications apportées
-9. Pull les modifications sur le répertoire github
+9. Push les modifications sur le répertoire github
 
 <br/>
 
