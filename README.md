@@ -28,6 +28,7 @@ L'objectif de cet exercice est de vous initier à l'utilisation des outils git &
 
 ### Ressources :
 * [git-cheat-sheet](https://www.git-tower.com/blog/git-cheat-sheet)
+* [Hostinger tutoriels - Commandes git](https://www.hostinger.fr/tutoriels/commandes-git)
 * [ YouTube Grafikart.fr - Comprendre Git 1/18](https://www.youtube.com/watch?v=rP3T0Ee6pLU)
 * loicpoccard [PowerPoint](/evogue_git.pdf)
 
